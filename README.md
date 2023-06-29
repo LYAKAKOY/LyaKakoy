@@ -9,7 +9,7 @@ I have been programming for about 4 years and participating in projects and hack
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [My projects](http://https://github.com/LYAKAKOY?tab=repositories)
 * ✉️  You can contact me at [LYAKAKOYXY@yandex.ru](mailto:LYAKAKOYXY@yandex.ru)
-* 🧠  I'm learning AI with Python and
+* 🧠  I'm learning AI with Python
 * 🤝  I'm open to collaborating on any interesting and difficult projects
 
 ### Skills

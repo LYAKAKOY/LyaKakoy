@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer Python developer and ML beginner
 -------------------------------------------
 
-I have been programming for about 4 years, I have been participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people. I can program not only in python, but also in other languages, but python is my main language.
+I have been programming for about 4 years and participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people. I can program not only in python, but also in other languages, but python is my main language.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [My projects](http://https://github.com/LYAKAKOY?tab=repositories)

@@ -34,10 +34,14 @@ I have been programming for about 4 years, I have been participating in projects
 ### SQL
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<hr>
+
+
 ### NoSQL
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <br>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="redis-logo.png" width="80" height="80" alt="RedisDB" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="elastic-logo.png" width="150" height="80" alt="elasticsearch" /></a>
+<hr>
 
 ### Others 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>

@@ -35,3 +35,10 @@ I have been programming for about 4 years, I have been participating in projects
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/LYAKAKOY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://vk.com/lyakakooy" target="_blank" rel="noreferrer"><img src="https://rostov.sledcom.ru/upload/site43/vk-logo-resized.jpeg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://t.me/LyaKakoyyy" target="_blank" rel="noreferrer"><img src="https://rivara.ru/wp-content/uploads/2022/05/scale_1200.png" width="32" height="32" /></a></p>

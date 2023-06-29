@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer Python developer and ML beginner
 -------------------------------------------
 
-I have been programming for about 4 years, I have been participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people.
+I have been programming for about 4 years, I have been participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people. I can program not only in python, but also in other languages, but python is my main language.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [My projects](http://https://github.com/LYAKAKOY?tab=repositories)
@@ -35,4 +35,3 @@ I have been programming for about 4 years, I have been participating in projects
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-

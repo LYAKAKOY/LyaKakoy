@@ -41,5 +41,5 @@ I have been programming for about 4 years, I have been participating in projects
 
 <p align="left">
 <a href="https://vk.com/lyakakooy" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG23.png" width="50" height="50" /></a>
-<a href="https://t.me/LyaKakoyyy" target="_blank" rel="noreferrer"><img src="https://rivara.ru/wp-content/uploads/2022/05/scale_1200.png" width="65" height="40" /></a>
+<a href="https://t.me/LyaKakoyyy" target="_blank" rel="noreferrer"><img src="https://rivara.ru/wp-content/uploads/2022/05/scale_1200.png" width="65" height="45" /></a>
 </p>

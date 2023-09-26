@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is David</h1>
 
-Programmer Python developer and ML beginner
+I am Programmer Python developer and ML beginner
 -------------------------------------------
 
 I have been programming for about 4 years and participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people. I can program not only in python, but also in other languages, but python is my main language.

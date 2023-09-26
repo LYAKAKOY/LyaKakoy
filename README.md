@@ -11,7 +11,7 @@ I have been programming for about 4 years and participating in projects and hack
 * 🧠  I'm learning AI with Python
 * 🤝  I'm open to collaborating on any interesting and difficult projects
 
-### Skills
+### My Skills:
 
 
 ### Languages

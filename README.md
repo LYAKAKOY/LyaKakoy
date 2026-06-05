@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, My name is David</h1>
 
-I am Programmer Python developer and ML beginner
--------------------------------------------
-
-I have been programming for about 4 years and participating in projects and hackathons for two years. I like to puzzle over difficult tasks and develop in a circle of like-minded people. I can program not only in python, but also in other languages, but python is my main language.
-
-* 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [My projects](http://https://github.com/LYAKAKOY?tab=repositories)
-* ✉️  You can contact me at [LYAKAKOYXY@yandex.ru](mailto:LYAKAKOYXY@yandex.ru)
-* 🧠  I'm learning AI with Python and programming language Golang
-* 🤝  I'm open to collaborating on any interesting and difficult projects
-
-### My Skills:
-
-
 ### Languages
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
